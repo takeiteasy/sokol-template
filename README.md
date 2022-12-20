@@ -1,5 +1,7 @@
 # sokol-template
 
+Run ```sh tools/bootstrap.sh``` to download latest sokol headers and shader tools. To compile project, run ```make app```, or to just build the shaders run ```make shaders```.
+
 ## Unlicense
 ```
 This is free and unencumbered software released into the public domain.
