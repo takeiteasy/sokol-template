@@ -1,4 +1,4 @@
-name: ceelo
+name: sokol
 
 options:
   bundleIdPrefix: io.github.takeiteasy
@@ -10,7 +10,7 @@ settings:
   GCC_C_LANGUAGE_STANDARD: c11
 
 targets:
-  ceelo:
+  sokol:
     type: application
     platform: macOS
     info:
